@@ -7,7 +7,7 @@ from PIL import Image
 import gdown
 
 # Google Drive 파일 ID (여기에 나의 pkl 파일의 id 집어넣어야 동작함!!!!!!!!!!!!!)
-file_id = '1XW151PysCpMk20k1rFH3wZRIh9VEzIQY?usp'
+file_id = '170QbVKkyfbyKjKsRsGz3Qsddx8_2qgAl'
 
 # Google Drive에서 파일 다운로드 함수
 @st.cache(allow_output_mutation=True)
