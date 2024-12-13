@@ -6,7 +6,7 @@ from PIL import Image
 import gdown
 
 
-st.title("으악")
+st.title("헬스케어 서비스")
 # Google Drive 파일 ID
 file_id = '170QbVKkyfbyKjKsRsGz3Qsddx8_2qgAl'
 
